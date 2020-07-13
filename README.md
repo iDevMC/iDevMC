@@ -23,6 +23,8 @@ Anyways, my fav song is [this](https://youtu.be/ub82Xb1C8os), and its a great so
 
 ![stats](https://github-readme-stats.vercel.app/api?username=idevmc&show_icons=true&hide_border=true) <br/>
 
+*I'm a bit shy, **even online**, but feel **free** to contact me on [Telegram](https://t.me/impdevmc) or on Discord (Mick#5537)*
+
 Im currently mostly working on these;
 
 <a href="https://github.com/starplum/LunarClientAPI">
@@ -31,6 +33,4 @@ Im currently mostly working on these;
 
 <a href="https://github.com/starplum/clientessentials">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=starplum&repo=clientessentials" />
-</a> <br/>
-
-*I'm a bit shy, **even online**, but feel **free** to contact me on [Telegram](https://t.me/impdevmc) or on Discord (Mick#5537)*
+</a>
