@@ -15,10 +15,9 @@ and known Windows exploits and test them on my personal PC (risky, i know 😄).
 work with [Git](https://git-scm.com/) and use [Eclipse](https://www.eclipse.org/) as my [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment).
 
 I'm currently working on a Minecraft server called [@Starplum](https://github.com/Starplum) with my
-friend [@ImDeprecated](https://github.com/ImDeprecated). It's a survival server because I love Minecraft
-survival, Vanilla or Modded, if my crappy PC can handle it, I would play on it !
+friend [@ImDeprecated](https://github.com/ImDeprecated). It's now a RPG minecraft. 
 
-Anyways, my fav song is [this](https://youtu.be/ub82Xb1C8os), and its a great song honestly :3
+Anyways, my fav song is [this](https://youtu.be/0opZqh_TprM), and its a great song honestly :3 (*it's not that anymore lol*, ***trust me its a good song***)
 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=idevmc&show_icons=true&hide_border=true) <br/>
@@ -27,10 +26,12 @@ Anyways, my fav song is [this](https://youtu.be/ub82Xb1C8os), and its a great so
 
 Im currently mostly working on these;
 
-<a href="https://github.com/starplum/LunarClientAPI">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=starplum&repo=LunarClientAPI" />
+<a href="https://github.com/iDevMC/Modules">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=idevmc&repo=Modules" />
 </a>
 
-<a href="https://github.com/starplum/clientessentials">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=starplum&repo=clientessentials" />
-</a>
+<br>
+
+* Private plugins
+  - qTable
+  - qClock
