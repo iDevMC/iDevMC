@@ -24,14 +24,14 @@ Anyways, my fav song is [this](https://youtu.be/0opZqh_TprM), and its a great so
 
 *I'm a bit shy, **even online**, but feel **free** to contact me on [Telegram](https://t.me/impdevmc) or on Discord (Mick#5537)*
 
-Im currently mostly working on these;
+Im currently mostly working on these; <br>
+
+* Private plugins
+  - qTable
+  - qClock
+  
 
 <a href="https://github.com/iDevMC/Modules">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=idevmc&repo=Modules" />
 </a>
 
-<br>
-
-* Private plugins
-  - qTable
-  - qClock
