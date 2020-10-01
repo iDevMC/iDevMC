@@ -22,13 +22,14 @@ Anyways, my fav song is [this](https://youtu.be/0opZqh_TprM), and its a great so
 
 ![stats](https://github-readme-stats.vercel.app/api?username=idevmc&show_icons=true&hide_border=true) <br/>
 
-*I'm a bit shy, **even online**, but feel **free** to contact me on [Telegram](https://t.me/impdevmc) or on Discord (Mick#5537)*
+*I'm a bit shy, **even online**, but feel **free** to contact me on [Telegram](https://t.me/impdevmc) or on Discord (🎃 Spooky Mick#5537)*
 
 Im currently mostly working on these; <br>
 
 * Private plugins
   - qTable
   - qClock
+  - qHalloween
   
 
 <a href="https://github.com/iDevMC/Modules">
