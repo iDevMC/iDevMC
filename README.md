@@ -36,3 +36,4 @@ Im currently mostly working on these; <br>
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=idevmc&repo=Modules" />
 </a>
 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F21JZAD)
