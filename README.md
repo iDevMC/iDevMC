@@ -1,9 +1,8 @@
 
 ```
-█████████████████████████████████████
-█▄─▄█▄─▄▄▀█▄─▄▄─█▄─█─▄█▄─▀█▀─▄█─▄▄▄─█
-██─███─██─██─▄█▀██▄▀▄███─█▄█─██─███▀█
-▀▄▄▄▀▄▄▄▄▀▀▄▄▄▄▄▀▀▀▄▀▀▀▄▄▄▀▄▄▄▀▄▄▄▄▄▀
+░▀░ ▒█▀▀▄ █▀▀ ▀█░█▀ ▒█▀▄▀█ ▒█▀▀█ 
+▀█▀ ▒█░▒█ █▀▀ ░█▄█░ ▒█▒█▒█ ▒█░░░ 
+▀▀▀ ▒█▄▄▀ ▀▀▀ ░░▀░░ ▒█░░▒█ ▒█▄▄█
 ```
 
 Helloo everyone, My name is Michael. I'm a 16 years old male (he/him)  
@@ -19,21 +18,23 @@ friend [@ImDeprecated](https://github.com/ImDeprecated). It's now a RPG minecraf
 
 Anyways, my fav song is [this](https://youtu.be/0opZqh_TprM), and its a great song honestly :3 (*it's not that anymore lol*, ***trust me its a good song***)
 
+![stats](https:/api.starplum.network/api?username=idevmc&show_icons=true&theme=onedark&count_private=true&custom_title=%E2%9A%A1%20Mick%27s%20Github%20stats%20%28%2Bprivates%29) <br/>
+![top public languages](https://api.starplum.network/api/top-langs/?username=idevmc&layout=compact&theme=onedark)
 
-![stats](https://github-readme-stats.vercel.app/api?username=idevmc&show_icons=true&hide_border=true) <br/>
-
-*I'm a bit shy, **even online**, but feel **free** to contact me on [Telegram](https://t.me/impdevmc) or on Discord (🎃 Spooky Mick#5537)*
+*I'm a bit shy, **even online**, but feel **free** to contact me on [Telegram](https://t.me/impdevmc) or on Discord (Mick#5537)*
 
 Im currently mostly working on these; <br>
 
-* Private plugins
-  - qTable
-  - qClock
-  - qHalloween
-  
+<a href="https://github.com/Starplum/HotbarManager">
+  <img align="center" src="https://api.starplum.network/api/pin/?username=Starplum&repo=HotbarManager&theme=onedark" />
+</a>
 
-<a href="https://github.com/iDevMC/Modules">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=idevmc&repo=Modules" />
+<a href="https://github.com/Starplum/GUIManager">
+  <img align="center" src="https://api.starplum.network/api/pin/?username=Starplum&repo=GUIManager&theme=onedark" />
+</a>
+
+<a href="https://github.com/Starplum/Meteor">
+  <img align="center" src="https://api.starplum.network/api/pin/?username=Starplum&repo=Meteor&theme=onedark" />
 </a>
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F21JZAD)
