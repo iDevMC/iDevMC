@@ -19,7 +19,7 @@ friend [@ImDeprecated](https://github.com/ImDeprecated). It's now a RPG minecraf
 Anyways, my fav song is [this](https://youtu.be/0opZqh_TprM), and its a great song honestly :3 (*it's not that anymore lol*, ***trust me its a good song***)
 
 <a href="#">
-  <img align="center" src="https://api.starplum.network/api?username=idevmc&show_icons=true&theme=onedark&count_private=true&custom_title=%E2%9A%A1%20Micks%27s%20Stats" />
+  <img align="center" src="https://api.starplum.network/api?username=idevmc&show_icons=true&theme=onedark&count_private=true&custom_title=%E2%9A%A1%20Mick%27s%20Stats" />
 </a>
 
 <a href="#">
@@ -47,6 +47,8 @@ Im currently mostly working on these; <br>
 <a href="https://github.com/Starplum/Modules">
   <img align="center" src="https://api.starplum.network/api/pin/?username=Starplum&repo=Modules&theme=onedark" />
 </a>
+
+<br> </br>
 
 <a href="https://ko-fi.com/F1F21JZAD">
   <img align="center" src="https://www.ko-fi.com/img/githubbutton_sm.svg" />
