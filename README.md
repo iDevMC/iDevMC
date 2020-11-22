@@ -37,7 +37,7 @@ Im currently mostly working on these; <br>
 </a>
 
 <a href="https://github.com/StarplumDev/Neptune">
-  <img align="center" src="https://api.starplum.network/api/pin/?username=Starplum&Devrepo=Neptune&theme=onedark" />
+  <img align="center" src="https://api.starplum.network/api/pin/?username=StarplumDev&repo=Neptune&theme=onedark" />
 </a>
 
 <br> </br>
