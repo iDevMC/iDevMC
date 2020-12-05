@@ -32,12 +32,8 @@ Anyways, my fav song is [this](https://youtu.be/0opZqh_TprM), and its a great so
 
 Im currently mostly working on these; <br>
 
-<a href="https://github.com/StarplumDev/Uranus">
-  <img align="center" src="https://api.starplum.network/api/pin/?username=StarplumDev&repo=Uranus&theme=onedark" />
-</a>
-
-<a href="https://github.com/StarplumDev/Neptune">
-  <img align="center" src="https://api.starplum.network/api/pin/?username=StarplumDev&repo=Neptune&theme=onedark" />
+<a href="https://github.com/Pantherebaume">
+  <img align="center" src="https://api.starplum.network/api/pin/?username=Pantherebaume&repo=pantherebaume.github.io&theme=onedark" />
 </a>
 
 <br> </br>
