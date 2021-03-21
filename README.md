@@ -13,10 +13,10 @@ Basically, if I'm not coding, I'm watching anime or sleeping xD
 and known Windows exploits and test them on my personal PC (risky, i know 😄). I also
 work with [Git](https://git-scm.com/) and use [Eclipse](https://www.eclipse.org/) as my [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment).
 
-I'm currently working on a Minecraft server called [@Starplum](https://github.com/Starplum) with my
-friend [@ImDeprecated](https://github.com/ImDeprecated). It's now a RPG minecraft. 
+I'm currently working on [Mick's World](https://github.com/micksworld) making bots and all that. I've already made 2 open source bot with hopefully more
+to come!
 
-Anyways, my fav song is [this](https://youtu.be/0opZqh_TprM), and its a great song honestly :3 (*it's not that anymore lol*, ***trust me its a good song***)
+Anyways, my fav song is [this](youtu.be/IWo5PXXp5PA), and its a great song honestly :3
 
 <a href="#">
   <img align="center" src="https://api.starplum.network/api?username=idevmc&show_icons=true&theme=onedark&count_private=true&custom_title=%E2%9A%A1%20Mick%27s%20Stats" />
@@ -32,11 +32,17 @@ Anyways, my fav song is [this](https://youtu.be/0opZqh_TprM), and its a great so
 
 Im currently mostly working on these; <br>
 
-<a href="https://github.com/Pantherebaume">
-  <img align="center" src="https://api.starplum.network/api/pin/?username=Pantherebaume&repo=pantherebaume.github.io&theme=onedark" />
+<a href="https://github.com/micksworld">
+  <img align="center" src="https://api.starplum.network/api/pin/?username=micksworld&repo=simplemodmail&theme=onedark" />
 </a>
 
 <br> </br>
+
+<a href="https://github.com/micksworld">
+  <img align="center" src="https://api.starplum.network/api/pin/?username=micksworld&repo=funkin&theme=onedark" />
+</a>
+
+<br> <br>
 
 <a href="https://ko-fi.com/F1F21JZAD">
   <img align="center" src="https://www.ko-fi.com/img/githubbutton_sm.svg" />
