@@ -5,7 +5,7 @@
 ▀▀▀ ▒█▄▄▀ ▀▀▀ ░░▀░░ ▒█░░▒█ ▒█▄▄█
 ```
 
-Helloo everyone, My name is Michael. I'm a 16 years old male (he/they)  
+Helloo everyone, My name is Michael. I'm a 17 years old male (he/they)  
 and I mainly program Java. I like to watch anime, and code all day.
 Basically, if I'm not coding, I'm watching anime or sleeping xD
 
