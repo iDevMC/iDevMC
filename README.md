@@ -19,25 +19,25 @@ to come! I have a lot of project that I'll rather not reveal here so feel free t
 Anyways, my fav song is [this](https://youtu.be/IWo5PXXp5PA), and its a great song honestly :3
 
 <a href="#">
-  <img align="center" src="https://api.starplum.network/api?username=idevmc&show_icons=true&theme=onedark&count_private=true&custom_title=%E2%9A%A1%20Mick%27s%20Stats" />
+  <img align="center" src="https://api.micks.world/api?username=idevmc&show_icons=true&theme=onedark&count_private=true&custom_title=%E2%9A%A1%20Mick%27s%20Stats" />
 </a>
 
 <a href="#">
-  <img align="center" src="https://api.starplum.network/api/top-langs/?username=idevmc&layout=compact&theme=onedark" />
+  <img align="center" src="https://api.micks.world/api/top-langs/?username=idevmc&layout=compact&theme=onedark" />
 </a>
 
 <br> </br>
 
-*I'm a bit shy, **even online**, but feel **free** to contact me on [Telegram](https://t.me/impdevmc) or on Discord (Mick#5537)*
+*I'm a bit shy, **even online**, but feel **free** to contact me on [Telegram](https://t.me/impdevmc) or on Discord (Mick 🌈#5537 / Mick#0003)*
 
 Im currently mostly working on these; <br>
 
 <a href="https://github.com/micksworld">
-  <img align="center" src="https://api.starplum.network/api/pin/?username=micksworld&repo=simplemodmail&theme=onedark" />
+  <img align="center" src="https://api.micks.world/api/pin/?username=micksworld&repo=simplemodmail&theme=onedark" />
 </a>
 
 <a href="https://github.com/micksworld">
-  <img align="center" src="https://api.starplum.network/api/pin/?username=micksworld&repo=funkin&theme=onedark" />
+  <img align="center" src="https://api.micks.world/api/pin/?username=micksworld&repo=funkin&theme=onedark" />
 </a>
 
 <br> <br>
