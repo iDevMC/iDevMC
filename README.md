@@ -32,12 +32,8 @@ Anyways, my fav song is [this](https://youtu.be/IWo5PXXp5PA), and its a great so
 
 Im currently mostly working on these; <br>
 
-<a href="https://github.com/micksworld">
-  <img align="center" src="https://api.micks.world/api/pin/?username=micksworld&repo=simplemodmail&theme=onedark" />
-</a>
-
-<a href="https://github.com/micksworld">
-  <img align="center" src="https://api.micks.world/api/pin/?username=micksworld&repo=funkin&theme=onedark" />
+<a href="https://github.com/micksworld/stella">
+  <img align="center" src="https://api.micks.world/api/pin/?username=micksworld&repo=stella&theme=onedark" />
 </a>
 
 <br> <br>
