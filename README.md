@@ -5,7 +5,8 @@
 ▀▀▀ ▒█▄▄▀ ▀▀▀ ░░▀░░ ▒█░░▒█ ▒█▄▄█
 ```
 
-Helloo everyone, My name is Michael. I'm a 17 years old male (he/they)  
+
+Helloo everyone, My name is Michael. I'm a 17-year-old male (he/they)  
 and I mainly program Java. I like to watch anime, and code all day.
 Basically, if I'm not coding, I'm watching anime or sleeping xD
 
@@ -13,31 +14,16 @@ Basically, if I'm not coding, I'm watching anime or sleeping xD
 and known Windows exploits and test them on my personal PC (risky, i know 😄). I also
 **try** to work with [Git](https://git-scm.com/) and use [Eclipse](https://www.eclipse.org/) as my [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment).
 
-I'm currently working on [Mick's World](https://github.com/micksworld) making bots and all that. I've already made 2 open source bot with hopefully more
-to come! I have a lot of project that I'll rather not reveal here so feel free to browse my public profiles..!
+I'm currently working on [Takai World](https://github.com/takaiworld) essentially making an rpg and all that. Though, that will take awhile to even get a working version as I'm pretty lazy right now .-.
 
 Anyways, my fav song is [this](https://youtu.be/IWo5PXXp5PA), and its a great song honestly :3
 
-<a href="#">
-  <img align="center" src="https://api.micks.world/api?username=idevmc&show_icons=true&theme=onedark&count_private=true&custom_title=%E2%9A%A1%20Mick%27s%20Stats" />
-</a>
+<br>
 
-<a href="#">
-  <img align="center" src="https://api.micks.world/api/top-langs/?username=idevmc&layout=compact&theme=onedark" />
-</a>
+<p align="center">
+  <img src="https://lanyard-profile-readme.vercel.app/api/253287312362962946">  
+</p>
 
-<br> </br>
+<br>
 
-*I'm a bit shy, **even online**, but feel **free** to contact me on [Telegram](https://t.me/impdevmc) or on Discord (Mick 🌈#5537 / Mick#0003)*
-
-Im currently mostly working on these; <br>
-
-<a href="https://github.com/micksworld/stella">
-  <img align="center" src="https://api.micks.world/api/pin/?username=micksworld&repo=stella&theme=onedark" />
-</a>
-
-<br> <br>
-
-<a href="https://ko-fi.com/F1F21JZAD">
-  <img align="center" src="https://www.ko-fi.com/img/githubbutton_sm.svg" />
-</a>
+*I'm a bit shy, **even online**, but feel **free** to contact me on Discord (Mick 🌈#5537 / Mick#0003)*
