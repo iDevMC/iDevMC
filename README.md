@@ -5,25 +5,42 @@
 ▀▀▀ ▒█▄▄▀ ▀▀▀ ░░▀░░ ▒█░░▒█ ▒█▄▄█
 ```
 
+'Sup everyone, my name's Michael (Mick for short). I'm a 17-year-old male (he/they/anything-you-can-think-of)  
+and I mainly program in Java. I like to watch anime, and code all day.
 
-Helloo everyone, My name is Michael. I'm a 17-year-old male (he/they)  
-and I mainly program Java. I like to watch anime, and code all day.
-Basically, if I'm not coding, I'm watching anime or sleeping xD
-
-[Java](https://java.com) is not the only language I know, I often use [C#](https://dotnet.microsoft.com) to code some random applications
-and known Windows exploits and test them on my personal PC (risky, i know 😄). I also
-**try** to work with [Git](https://git-scm.com/) and use [Eclipse](https://www.eclipse.org/) as my [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment).
-
-I'm currently working on [Takai World](https://github.com/takaiworld) essentially making an rpg and all that. Though, that will take awhile to even get a working version as I'm pretty lazy right now .-.
-
-Anyways, my fav song is [this](https://youtu.be/IWo5PXXp5PA), and its a great song honestly :3
+[Java](https://java.com) is not the only language I know, I also use [C#](https://dotnet.microsoft.com) to code some random applications and games. 
+I also *(still)* **try** to work with [Git](https://git-scm.com/) and use [Eclipse](https://www.eclipse.org/) as my [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment). I don't really currently have a favorite song but if I had to chose it would be [this](https://youtu.be/IWo5PXXp5PA), 
+and its a great song honestly :3
 
 <br>
 
 <p align="center">
-  <img src="https://lanyard-profile-readme.vercel.app/api/253287312362962946">  
+  <img src="https://lanyard-profile-readme.vercel.app/api/253287312362962946">
 </p>
 
 <br>
 
-*I'm a bit shy, **even online**, but feel **free** to contact me on Discord (Mick 🌈#5537 / Mick#0003)*
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/47728875/132115783-d0968694-c9db-46cd-8d33-485c55d7ef1f.png" width="512" lenght="512">
+  __________________________________________________________________________________________________________ <br>
+  An upcoming Minecraft server.
+</p>
+
+<br>
+
+<details>
+  <summary>Where to find me!</summary>
+
+## Socials
+Discord • [Mick 🌈#5537](https://discord.com/users/253287312362962946)  <br>
+Discord • [Mick#8150](https://discord.com/users/459598644283310081)      <br>
+Twitter • [iMPDevMC](https://twitter.com/impdevmc)                       <br>
+Telegram • [iMPDevMC](https://t.me/impdevmc)                             <br>
+Website • [Mick's World](https://micks.world)                            <br>
+  
+## Other socials
+Spotify • [pz3o1ph2mkwy7haks6dmxle06](https://open.spotify.com/user/pz3o1ph2mkwy7haks6dmxle06)    <br>
+Behance • [Mick_](https://be.net/mick_)                                                            <br>
+  
+![](https://komarev.com/ghpvc/?username=iDevMC&style=flat-square&color=ff948c)
+</details>
