@@ -32,15 +32,18 @@ and its a great song honestly :3
   <summary>Where to find me!</summary>
 
 ## Socials
-Discord • [Mick 🌈#5537](https://discord.com/users/253287312362962946)  <br>
-Discord • [Mick#8150](https://discord.com/users/459598644283310081)      <br>
-Twitter • [iMPDevMC](https://twitter.com/impdevmc)                       <br>
-Telegram • [iMPDevMC](https://t.me/impdevmc)                             <br>
-Website • [Mick's World](https://micks.world)                            <br>
+Discord • [Mick 🌈#5537](https://discord.com/users/253287312362962946)      <br>
+Discord • [Sleepy Femboy#8150](https://discord.com/users/459598644283310081) <br>
+Twitter • [iMPDevMC](https://twitter.com/impdevmc)                           <br>
+Telegram • [iMPDevMC](https://t.me/impdevmc)                                 <br>
+Website • [Mick's World](https://micks.world)                                <br>
   
 ## Other socials
-Spotify • [pz3o1ph2mkwy7haks6dmxle06](https://open.spotify.com/user/pz3o1ph2mkwy7haks6dmxle06)    <br>
-Behance • [Mick_](https://be.net/mick_)                                                            <br>
+Spotify • [pz3o1ph2mkwy7haks6dmxle06](https://open.spotify.com/user/pz3o1ph2mkwy7haks6dmxle06)   <br>
+Behance • [Mick_](https://be.net/mick_)                                                          <br>
+Steam • [iMPDevMC](https://steamcommunity.com/id/impdevmc)                                       <br>
+NameMC • [iDevMC](https://namemc.com/profile/iDevMC.2)                                           <br>
+NameMC • [iMPDevMC](https://namemc.com/profile/iMPDevMC.1)                                       <br>
   
 ![](https://komarev.com/ghpvc/?username=iDevMC&style=flat-square&color=ff948c)
 </details>
