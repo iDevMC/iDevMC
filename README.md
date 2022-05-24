@@ -5,7 +5,7 @@
 ▀▀▀ ▒█▄▄▀ ▀▀▀ ░░▀░░ ▒█░░▒█ ▒█▄▄█
 ```
 
-'Sup everyone, my name's Michael (Mick for short). I'm a 17-year-old male (he/they/anything-you-can-think-of)  
+'Sup everyone, my name's Michael (Mick for short). I'm a 18-year-old male (he/they/anything-you-can-think-of)  
 and I mainly program in Java. I like to watch anime, and code all day.
 
 [Java](https://java.com) is not the only language I know, I also use [C#](https://dotnet.microsoft.com) to code some random applications and games. 
@@ -33,7 +33,7 @@ and its a great song honestly :3
 
 ## Socials
 Discord • [Mick 🌈#5537](https://discord.com/users/253287312362962946)      <br>
-Discord • [Sleepy Femboy#8150](https://discord.com/users/459598644283310081) <br>
+Discord • [! mk#8150](https://discord.com/users/459598644283310081)          <br>
 Twitter • [iMPDevMC](https://twitter.com/impdevmc)                           <br>
 Telegram • [iMPDevMC](https://t.me/impdevmc)                                 <br>
 Website • [Mick's World](https://micks.world)                                <br>
