@@ -7,8 +7,9 @@
 
 'Sup everyone, my name's Michael (Mick for short). I'm a 18-year-old [nonbinary person](https://pronouns.page/@mick) (any pronouns) and I mainly program in Java. I like *writing* code, though I end up fixing or debugging all day instead, sadly. 
 
-[Java](https://java.com) is not the only language I know, I also use [C#](https://dotnet.microsoft.com) to code some random applications and games. 
-I also *(still)* **try** to work with [Git](https://git-scm.com/) and use [Eclipse](https://www.eclipse.org/) as my [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment). I don't really currently have a favourite song but if I had to chose it would be [this](https://youtu.be/IWo5PXXp5PA); it's a great song honestly :3
+[Java](https://java.com) is not the only language I know, I also use [C#](https://dotnet.microsoft.com) to code some random applications and games. I also *(still)* **try** to work with [Git](https://git-scm.com/) and use [Eclipse](https://www.eclipse.org/) as my [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment). I don't really currently have a favourite song but if I had to chose it would be [this](https://youtu.be/IWo5PXXp5PA); it's a great song honestly :3
+
+Currently learning [Laravel](https://laravel.com/) alongside [php](). Quite fun but my sleep scheduled is taking a hit at the moment lmao; it was never good either way, 🤷
 
 <br>
 
