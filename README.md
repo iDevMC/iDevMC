@@ -20,7 +20,7 @@ Coding is my passion.
   <summary>Other Details</summary>
 
 ## Socials
-Discord • [simplymick_](https://discord.com/users/253287312362962946) & [Mick 𖤐#8150](https://discord.com/users/459598644283310081)  <br>
+Discord • [simplymick_](https://discord.com/users/253287312362962946) & [pinkpastel](https://discord.com/users/459598644283310081)  <br>
 Website • [Mick's World](https://micks.world)                            <br>
 pronouns.page • [@mick](https://en.pronouns.page/@mick)                          <br>
 
