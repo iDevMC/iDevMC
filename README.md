@@ -5,7 +5,7 @@
 ▀▀▀ ▒█▄▄▀ ▀▀▀ ░░▀░░ ▒█░░▒█ ▒█▄▄█
 ```
 
-[19](https://en.pronouns.page/@mick), your average Honkai: Star Rail player. <br>
+[20](https://en.pronouns.page/@mick), your average Honkai: Star Rail player. <br>
 Coding is my passion. 
 
 <br>
