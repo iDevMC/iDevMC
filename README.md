@@ -22,8 +22,18 @@ i also have way too many projects for my own good. current ones are: nightlight,
 
 ## socials
 discord • [mykelsarchive](https://discord.com/users/253287312362962946) <br>
-website • [Website](https://micks.gay)                            <br>
+website • [website](https://micks.gay)                            <br>
 pronouns.page • [@mick](https://en.pronouns.page/@mick)                          <br>
+twitter • @archiveofmykel, do not contact me on there, i will never respond <br>
+<br>
+## music stuff
+[spotify](https://open.spotify.com/artist/1KnWQuU4GmohnIXEc26IPH) • [bandcamp](https://mykelsarchive.bandcamp.com/) • [apple music](https://music.apple.com/ca/artist/mykelsarchive/1744455934) <br>
+
+## modding stuff
+[modrinth user](https://modrinth.com/user/mick) • [modrinth org](https://modrinth.com/organization/mykels-projects) <br>
+[curseforge](https://www.curseforge.com/members/mykel/projects)
+<br> <br>
+thanks for visiting :D
 
 ![](https://komarev.com/ghpvc/?username=iDevMC&label=%EF%B9%A43&color=ffbffb&style=for-the-badge)
 </details>
