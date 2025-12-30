@@ -6,7 +6,8 @@
 ```
 
 [21](https://en.pronouns.page/@mick), average person out there. <br>
-i mostly code (Java, C#, JS/TypeScript), play the electric bass guitar (my favourite <3), the electric guitar and writing silly little stories in my free time. i do try to draw at times but let's not get into that mess.
+i mostly code (java, csharp, typescript), play the electric bass guitar (my favourite <3), the electric guitar and writing silly little stories in my free time. i tend to always type in lowercase and that's pretty much my thing. <br>
+i also have way too many projects for my own good. current ones are: nightlight, verdelune network, dev @ orangesmp, pasture, hivemind.ink, [mykel's projects](https://github.com/mykelsprojects) and more.
 
 <br>
 
@@ -19,9 +20,9 @@ i mostly code (Java, C#, JS/TypeScript), play the electric bass guitar (my favou
 <details>
   <summary></summary>
 
-## Socials
-Discord • [mykelsarchive](https://discord.com/users/253287312362962946) <br>
-Website • [Website](https://micks.gay)                            <br>
+## socials
+discord • [mykelsarchive](https://discord.com/users/253287312362962946) <br>
+website • [Website](https://micks.gay)                            <br>
 pronouns.page • [@mick](https://en.pronouns.page/@mick)                          <br>
 
 ![](https://komarev.com/ghpvc/?username=iDevMC&label=%EF%B9%A43&color=ffbffb&style=for-the-badge)
