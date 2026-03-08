@@ -17,6 +17,10 @@ i also have way too many projects for my own good. current ones are: nightlight,
 
 <br>
 
+> I have mostly moved to my git server, what you publicly see on this profile is essentially deprecated
+
+<br>
+
 <details>
   <summary></summary>
 
